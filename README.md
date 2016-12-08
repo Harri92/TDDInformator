@@ -1,0 +1,2 @@
+# TDDInformator
+Mocking
